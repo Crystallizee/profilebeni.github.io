@@ -91,7 +91,7 @@ body {
 #about-me {
   padding: 2em 0;
 }
-#certificate, #portofolio{
+#certificate, #portofolio, #contact-me{
     text-align: center;
     padding-top: 50px;
 }
@@ -108,8 +108,14 @@ body {
   }
   .mywebsite{
       width: 75%;
+      height: 500px;
   }
-  
+  #contact-me{
+    text-align: center;
+  }
+  .img-contact{
+    width: 50px;
+  }
   .html {width: 80%; background-color: #04AA6D;}
   .css {width: 75%; background-color: #2196F3;}
   .js {width: 65%; background-color: #f44336;}
